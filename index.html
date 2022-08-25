@@ -7,6 +7,53 @@
     <title>Document</title>
 </head>
 <body>
+    <div class="container">
+        <div class="container-text">
+            <textarea name="" id="" cols="80" rows="25" class="textarea">
+
+            </textarea>
+            
+        </div>
     
+       <div class="container-message">
+        <textarea name="" id="" cols="40" rows="22" class="message">
+      
+        </textarea>
+        <button class="btn-delete" onclick="del()">Borrar</button>
+        <button class="btn-copy" onclick="copyText()">Copy</button>
+ 
+       </div>
+        
+  
+    
+   
+    <div class="container-image" >
+        <div class="image">
+
+        </div>
+
+        <div class="messageError">
+            <h1>Ningún mensaje fue encontrado</h1>
+            <p>Ingrese un texto para encriptar o desencriptar</p> 
+        </div>
+    </div>
+      </div>
+     </div>
+
+    <div class="container-btn">
+        <button onclick="encrypt()">Encriptar</button>
+        <button onclick="desencrypt()">Desencriptar</button>
+ 
+    </div>
+    <div>
+        <p class="message-error">
+            
+        </p>
+    </div>
+    
+
+   
+
+    <script src="./script.js"></script>
 </body>
 </html>
