@@ -6,7 +6,7 @@ textarea{
     margin: 10px 10px;
 }
 .image{
-    background-image: url("./img/Muneco.png");
+    background-image: url("./images/Muneco.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 200px;
