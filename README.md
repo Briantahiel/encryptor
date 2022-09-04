@@ -45,6 +45,8 @@ const tecnoStore = [
  <img src="https://user-images.githubusercontent.com/72633519/188297935-d5aedb34-a351-4759-a448-fe41d6b7c9fc.png" width=80>
  </div>
  
+ <h1>:man_technologist: collaborators</h1>
+ 
 <h1>:rocket: Getting Started</h1>
 
 
