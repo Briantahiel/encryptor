@@ -29,7 +29,7 @@ const tecnoStore = [
   ```js
  </script>
  ```
- <h1>	:hammer_and_wrench: Languages and Tools</h1>
+ <h1>:hammer_and_wrench: Languages and Tools</h1>
  
  <div>
  <img src="https://user-images.githubusercontent.com/72633519/188297424-d455a87b-6f8d-4b16-8638-6f5381eec8a7.png" width=80>
@@ -45,8 +45,8 @@ const tecnoStore = [
  <img src="https://user-images.githubusercontent.com/72633519/188297935-d5aedb34-a351-4759-a448-fe41d6b7c9fc.png" width=80>
  </div>
  
-<h1>Getting Started 🚀</h1>
-Getting Started 🚀
+<h1>:rocket: Getting Started</h1>
+
  
 <img src="https://github-readme-stats.vercel.app/api?username=encryptor&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
