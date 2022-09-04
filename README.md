@@ -1,4 +1,4 @@
-<h1 align="center">TecnoStore</h1>
+<h1 align="center">TecnoStore :atom_symbol:</h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72633519/188296362-3c4a84d9-90ed-4cb8-aced-d1b6b627e090.png"/>
 </p>
@@ -50,22 +50,29 @@ const tecnoStore = [
 
  <h1>:man_technologist: Collaborators</h1>
  
- <div>
  <h3>Team Leader</h4>
 
 | [<img src="https://avatars.githubusercontent.com/u/83665120?v=4" width=115><br><sub>Leonardo Dávalos</sub>](https://github.com/davaloslm) | 
  | :---: |
- 
+
  <h3>Developers</h3>
 
 | [<img src="https://avatars.githubusercontent.com/u/69003838?v=4" width=115><br><sub>Juan Carlos Ojeda</sub>](https://github.com/ojedajuanc) | [<img src="https://avatars.githubusercontent.com/u/73550938?v=4" width=115><br><sub>Alejandro Wogelman</sub>](https://github.com/AlejandroWogelman) | [<img src="https://avatars.githubusercontent.com/u/72633519?v=4" width=115><br><sub>Brian Gómez</sub>](https://github.com/Briantahiel) | 
 | :---: | :---: | :---: |
-</div>
 
- 
 <h1>:rocket: Getting Started</h1>
 
-    
+<h3>Getting Started with Create React App</h3>
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
+Git clone this project <a href="https://github.com/No-Country/c6-22.git">Here</a>
+
+<h4>npm install</h4>
+<h4>npm start</h4>
+
+<h4>And get on board!</h4>
+ 
 
 
 
