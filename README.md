@@ -4,8 +4,7 @@
 </p>
 
 <h1>:heavy_check_mark: About the Project</h1>
-<h4>TecnoStore comes from a common objective, through the implementation of a web application, it seeks to solve the problems of an E-commerce owing to the need to increase the sale of its products.</h4>
-<h4>Customers will be provided with a catalog with all the latest technology products to see. Since the application has a payment system, the customer will be able to make the purchase right there and get important discounts but first they must be logged in</h4>
+<h4>TecnoStore comes from the idea of that through the implementation of a web application, we seek to solve the problems of an E-commerce owing to the low sale of its products. Customers will be provided with a catalog with all the latest technology products to see. Since the application has a payment system, the customer will be able to make the purchase right there and get important discounts but first they must be logged in</h4>
 
 
 <h1>:memo: General Description</h1>
@@ -46,7 +45,8 @@ const tecnoStore = [
  <img src="https://user-images.githubusercontent.com/72633519/188297935-d5aedb34-a351-4759-a448-fe41d6b7c9fc.png" width=80>
  </div>
  
-
+<h1>Getting Started 🚀</h1>
+Getting Started 🚀
  
 <img src="https://github-readme-stats.vercel.app/api?username=encryptor&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
