@@ -46,20 +46,21 @@ const tecnoStore = [
   <div>
    <img src="https://user-images.githubusercontent.com/72633519/188324844-520ebd22-297c-4648-b2fa-afffed1f9eee.png" width=40>
    <img src="https://user-images.githubusercontent.com/72633519/188324862-f5f3031a-657a-4fd9-a089-ce96f1a5e5a9.png" width=40>
-   <img src="https://user-images.githubusercontent.com/72633519/188324875-be4d192d-544d-49d4-8f90-fc45cbbfa238.png" width=40>
  </div>
 
  <h1>:man_technologist: Collaborators</h1>
+ 
+ <div>
+ <h3>Team Leader</h4>
+
+| [<img src="https://avatars.githubusercontent.com/u/83665120?v=4" width=115><br><sub>Leonardo Dávalos</sub>](https://github.com/davaloslm) | 
+ | :---: |
  
  <h3>Developers</h3>
 
 | [<img src="https://avatars.githubusercontent.com/u/69003838?v=4" width=115><br><sub>Juan Carlos Ojeda</sub>](https://github.com/ojedajuanc) | [<img src="https://avatars.githubusercontent.com/u/73550938?v=4" width=115><br><sub>Alejandro Wogelman</sub>](https://github.com/AlejandroWogelman) | [<img src="https://avatars.githubusercontent.com/u/72633519?v=4" width=115><br><sub>Brian Gómez</sub>](https://github.com/Briantahiel) | 
 | :---: | :---: | :---: |
-
- <h3>Team Leader</h4>
-
-| [<img src="https://avatars.githubusercontent.com/u/83665120?v=4" width=115><br><sub>Leonardo Dávalos</sub>](https://github.com/davaloslm) | 
- | :---: |
+</div>
 
  
 <h1>:rocket: Getting Started</h1>
