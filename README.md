@@ -3,10 +3,12 @@
 <img src="https://user-images.githubusercontent.com/72633519/188296362-3c4a84d9-90ed-4cb8-aced-d1b6b627e090.png"/>
 </p>
 
-<h1>Sobre el Proyecto</h1>
+<h1>:heavy_check_mark: About the Project</h1>
+<h4>TecnoStore comes from a common objective, through the implementation of a web application, it seeks to solve the problems of an E-commerce owing to the need to increase the sale of its products.</h4>
+<h4>Customers will be provided with a catalog with all the latest technology products to see. Since the application has a payment system, the customer will be able to make the purchase right there and get important discounts but first they must be logged in</h4>
 
 
-<h1>:memo: Descripción General</h1>
+<h1>:memo: General Description</h1>
 
 ```js
 <script>
@@ -14,21 +16,21 @@
 ```js
 const tecnoStore = [
                 {
-                  "empresa": "No Country",
-                  "descripcion": "E-commerce en el área tecnológica",
-                  "herramientas": "FrontEnd: React - redux - React router / BackEnd: Java - spring-boot",
+                  "company": "No Country",
+                  "description": "E-commerce",
+                  "tools": "FrontEnd: React - redux - React router / BackEnd: Java - spring-boot",
                   "teamLeader": "Leonardo Dávalos",
-                  "integrantes":[
-                        {"nombre":"Juan Carlos Ojeda", "rol":"BackEnd"},
-                        {"nombre":"Alejandro Wogelman", "rol":"FrontEnd"},
-                        {"nombre":"Brian Gómez", "rol":"FrontEnd"},
+                  "members":[
+                        {"name":"Juan Carlos Ojeda", "role":"BackEnd"},
+                        {"name":"Alejandro Wogelman", "role":"FrontEnd"},
+                        {"name":"Brian Gómez", "role":"FrontEnd"},
                     ]
                }]
    ```
   ```js
  </script>
  ```
- <h1>	:hammer_and_wrench: Lenguajes y Herramientas</h1>
+ <h1>	:hammer_and_wrench: Languages and Tools</h1>
  
  <div>
  <img src="https://user-images.githubusercontent.com/72633519/188297424-d455a87b-6f8d-4b16-8638-6f5381eec8a7.png" width=80>
