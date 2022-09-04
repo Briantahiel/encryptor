@@ -32,15 +32,15 @@ const tecnoStore = [
  <h1>:hammer_and_wrench: Languages and Tools</h1>
  
  <div>
-   <img src="https://user-images.githubusercontent.com/72633519/188297424-d455a87b-6f8d-4b16-8638-6f5381eec8a7.png" width=80>
-   <img src="https://user-images.githubusercontent.com/72633519/188297421-e8f0d859-9cb3-4baa-ba53-1d8dd869b88a.png" width=80>
-   <img src="https://user-images.githubusercontent.com/72633519/188297595-721021cf-686b-4e0b-af3f-c5aad2ea5ce1.png" width=80>
-   <img src="https://user-images.githubusercontent.com/72633519/188297675-415e5bda-9765-4631-9c41-fba8ac756a8d.png" width=80>
-   <img src="https://user-images.githubusercontent.com/72633519/188297762-a8b10ad1-38bb-4d06-bf5d-e9af1cbb1e8a.png" width=80>
-   <img src="https://user-images.githubusercontent.com/72633519/188297935-d5aedb34-a351-4759-a448-fe41d6b7c9fc.png" width=80>
+   <img src="https://user-images.githubusercontent.com/72633519/188297424-d455a87b-6f8d-4b16-8638-6f5381eec8a7.png" width=60>
+   <img src="https://user-images.githubusercontent.com/72633519/188297421-e8f0d859-9cb3-4baa-ba53-1d8dd869b88a.png" width=60>
+   <img src="https://user-images.githubusercontent.com/72633519/188297595-721021cf-686b-4e0b-af3f-c5aad2ea5ce1.png" width=60>
+   <img src="https://user-images.githubusercontent.com/72633519/188297675-415e5bda-9765-4631-9c41-fba8ac756a8d.png" width=60>
+   <img src="https://user-images.githubusercontent.com/72633519/188297762-a8b10ad1-38bb-4d06-bf5d-e9af1cbb1e8a.png" width=60>
+   <img src="https://user-images.githubusercontent.com/72633519/188297935-d5aedb34-a351-4759-a448-fe41d6b7c9fc.png" width=60>
  </div>
  
- <h1>:man_technologist: collaborators</h1>
+ <h1>:man_technologist: Collaborators</h1>
  <div>
   <h4>:black_medium_small_square: <a href="https://github.com/ojedajuanc">Juan Carlos Ojeda</h4>
   <h4>:black_medium_small_square: <a href="https://github.com/AlejandroWogelman">Alejandro Wogelman</h4>
