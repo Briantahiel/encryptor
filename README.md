@@ -41,18 +41,21 @@ const tecnoStore = [
  </div>
  
  <h1>:man_technologist: Collaborators</h1>
- <div>
-  <h4>:black_medium_small_square: <a href="https://github.com/ojedajuanc">Juan Carlos Ojeda</h4>
-  <h4>:black_medium_small_square: <a href="https://github.com/AlejandroWogelman">Alejandro Wogelman</h4>
-   <h4>:black_medium_small_square: <a href="https://github.com/Briantahiel">Brian Gómez</h4>
-</div>
+ 
+ <h3>Developers</h3>
+
+| [<img src="https://avatars.githubusercontent.com/u/69003838?v=4" width=115><br><sub>Juan Carlos Ojeda</sub>](https://github.com/ojedajuanc) | [<img src="https://avatars.githubusercontent.com/u/73550938?v=4" width=115><br><sub>Alejandro Wogelman</sub>](https://github.com/AlejandroWogelman) | [<img src="https://avatars.githubusercontent.com/u/72633519?v=4" width=115><br><sub>Brian Gómez</sub>](https://github.com/Briantahiel) | 
+| :---: | :---: | :---: |
+
+ <h3>Team Leader</h4>
+
+| [<img src="https://avatars.githubusercontent.com/u/83665120?v=4" width=115><br><sub>Brian Gómez</sub>](https://github.com/davaloslm) | 
+ | :---: |
+
  
 <h1>:rocket: Getting Started</h1>
 
-
-
-
-
+    
 
 
 
