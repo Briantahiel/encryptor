@@ -1,4 +1,9 @@
 ### <h1 align="center">TecnoStore</h1>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72633519/188283275-1cd95d0a-6699-45d0-8189-0c6e78aa366e.png" width="60%" height="450px"/>
+</p>
+
+
 ```
 const tecnoStore = [
 {
