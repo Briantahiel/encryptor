@@ -4,8 +4,21 @@
 </p>
 
 <h1>:heavy_check_mark: About the Project</h1>
-<h4>TecnoStore comes from the idea of that through the implementation of a web application, we seek to solve the problems of an E-commerce owing to the low sale of its products. Customers will be provided with a catalog with all the latest technology products to see. Since the application has a payment system, the customer will be able to make the purchase right there and get important discounts but first they must be logged in</h4>
+<h4>TecnoStore comes from the idea of that through the implementation of a web application, we seek to solve the problems of an E-commerce owing to the low sale of its products. Customers will be provided with a catalog with all the latest technological products to see. Since the application has a payment system, the customer will be able to make the purchase right there and get important discounts but first they must be logged in</h4>
 
+<h4>User Stories</h4>
+
+- `As a customer`: 
+  - I want to know about the latest technological products.
+  - I want to create an account to protect my information.
+  - I want to be able to compare prices between different items.
+  - I want to be able to add it to a cart and purchase it.
+  - I want to be receive important discounts as a customer.
+
+- `As an administrator`: 
+  - I want to be able to show and list all my stock.
+  - I want my customers to be registered so that they never miss any news.
+  - I want my customers to receive important offers by using my application.
 
 <h1>:memo: General Description</h1>
 
@@ -29,6 +42,7 @@ const tecnoStore = [
   ```js
  </script>
  ```
+ 
  <h1>:hammer_and_wrench: Languages and Tools</h1>
  <h3>Front End</h4>
  <div>
