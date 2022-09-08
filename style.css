@@ -2,6 +2,9 @@
     width: 940px;
     display: flex;
 }
+.container-btn-message{
+    margin-left: 10px;
+}
 textarea{
     margin: 10px 10px;
 }
