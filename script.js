@@ -35,7 +35,12 @@ function desencrypt(){
     .replaceAll("ai", "a")
     .replaceAll("ober", "o")
     .replaceAll("ufat", "u")
-    document.querySelector(".message").innerHTML = encryptText
+    if(encryptText == ""){
+        messageError.style.display = "block"
+        messageError.innerHTML = "Ingrese un texto"
+        messageError.style.animation = "shake .4s"
+    }
+    document.querySelector(".message").innerHTML = encryptText;
 }
 
 function del(){

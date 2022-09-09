@@ -9,48 +9,61 @@
 </head>
 <body>
     <div class="container">
+        <div class="container-textarea">
         <div class="container-text">
-            <textarea name="" id="" cols="80" rows="25" class="textarea">
+            <textarea name="" id="" cols="48" rows="25" class="textarea" placeholder="Ingrese su texto aquí..">
 
             </textarea>
-            
+            <div class="container-btn-message">
+                <div class="container-btn">
+                    <button onclick="encrypt()">Encriptar</button>
+                    <button onclick="desencrypt()">Desencriptar</button>
+                </div>
+                
+               
+            </div>
+            <div class="container-error">
+                <p class="message-error">
+                    
+                </p>
+            </div>
         </div>
     
-       <div class="container-message">
-        <textarea name="" id="" cols="40" rows="22" class="message">
+        <div class="container-image" >
+            <div class="image">
+    
+            </div>
+    
+            <div class="messageError">
+                <h1>Ningún mensaje fue encontrado</h1>
+                <p>Ingrese un texto para encriptar o desencriptar</p> 
+            </div>
+        </div>
+        
+         
+<!--     
+        <div class="container-btn-message">
+            <div class="container-btn">
+                <button onclick="encrypt()">Encriptar</button>
+                <button onclick="desencrypt()">Desencriptar</button>
+            </div>
+            <div>
+                <p class="message-error">
+                    
+                </p>
+            </div>
+        </div> -->
+    <div class="container-message">
+        <textarea name="" id="" cols="36" rows="25" class="message">
       
         </textarea>
-        <button class="btn-delete" onclick="del()">Borrar</button>
-        <button class="btn-copy" onclick="copyText()">Copy</button>
- 
-       </div>
-        
-  
-    
-   
-    <div class="container-image" >
-        <div class="image">
-
-        </div>
-
-        <div class="messageError">
-            <h1>Ningún mensaje fue encontrado</h1>
-            <p>Ingrese un texto para encriptar o desencriptar</p> 
+        <div class="btn-message">
+            <button class="btn-delete" onclick="del()">Borrar</button>
+            <button class="btn-copy" onclick="copyText()">Copy</button>
         </div>
     </div>
-      </div>
-     </div>
-
-    <div class="container-btn-message">
-    <div class="container-btn">
-        <button onclick="encrypt()">Encriptar</button>
-        <button onclick="desencrypt()">Desencriptar</button>
-    </div>
-    <div>
-        <p class="message-error">
-            
-        </p>
-    </div>
+     </div> 
+   </div>
     </div>
 
    

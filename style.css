@@ -1,13 +1,71 @@
-.container{
-    width: 940px;
-    display: flex;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Ramabhadra&display=swap');
+*{
+    margin: 0;
+    padding: 0;
 }
-.container-btn-message{
-    margin-left: 10px;
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    max-width: 1200px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+
+}
+.container-error{
+    height: 30px;
+}
+.container-textarea{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin:  auto;
+}
+.container-image{
+    width: 300px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container-btn{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.container-message{
+    display: flex;
+    justify-content:center;
+}
+
+button{
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    border-radius: 50px;
+    width: 90%;
+    margin: 3px;
+}
+.btn-message{
+    display: flex;
+    justify-content: space-around;
 }
 textarea{
+    border: none;
+    outline: none;
     margin: 10px 10px;
+    resize: none
 }
+/* .container-btn-message{
+    display: flex;
+    justify-content:center;
+} */
+
 .image{
     background-image: url("./images/Muneco.png");
     background-size: cover;
@@ -16,6 +74,7 @@ textarea{
     height: 200px;
 }
 .message-error{
+    text-align: center;
     color: red;
 }
 @keyframes shake{
