@@ -7,6 +7,11 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #E5E5E5;
+    margin: auto;
+    width: 100%;
+}
+textarea{
+    min-width: 300px;
 }
 .brand{
     font-family: 'Baloo Tamma 2', cursive; 
@@ -16,26 +21,24 @@ body{
     margin-left: 5px;
 }
 .container{
-    max-width: 1200px;
     position: relative;
     height: 100vh;
+    max-width: 1200px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin: auto;
 }
 .container-error{
-
     height: 30px;
 }
 .container-textarea{
-    width: 100%;
+    min-width: 100%;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin:  auto;
+    margin: auto;
 }
-
 .container-image{
     width: 300px;
     height: 450px;
@@ -111,6 +114,7 @@ textarea{
     width: 200px;
     height: 200px;
 }
+
 .message{
     width: 300px;
 }
@@ -121,6 +125,14 @@ textarea{
 }
 .messageError{
     text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: #0A3871;
+    color: whitesmoke;
+    font-weight: 600;
+    letter-spacing: 1px;
+
 }
 @keyframes shake{
     0%{
@@ -136,13 +148,23 @@ textarea{
         transform: translateX(18px);
     }
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 640px) {
     .image{
         display: none;
     }
-    .container-image{
-        width: 400px;
+    .brand{
+        margin-top: 150px;
+    }
+
+    textarea{
+        max-width: 320px;
         margin: auto;
+    }
+    .container{
+        margin-bottom: 150px;
+    }
+    .container-message{
+        width: 300px;
     }
     .messageError{
         position: relative;
@@ -152,7 +174,7 @@ textarea{
         flex-direction: column;
         justify-content: center;
         margin: auto;
-        max-width: 350px;
+        max-width: 300px;
         height: 200px;
         border-radius: 30px;
         box-shadow: 6px 18px 91px -18px rgba(0,0,0,0.59);
@@ -161,6 +183,10 @@ textarea{
     .container-btn{
         flex-wrap: wrap;
         width: 95%;
+    }
+    .container-message{
+        width: 320px;
+        height: 100%;
     }
 
 }
