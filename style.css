@@ -11,9 +11,7 @@ body{
     width: 100%;
     height: 100vh;
 }
-textarea{
-    min-width: 300px;
-}
+
 .brand{
     font-family: 'Baloo Tamma 2', cursive; 
     font-size: 4em;
@@ -24,6 +22,7 @@ textarea{
 .container{
     position: relative;
     max-width: 1200px;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -53,11 +52,9 @@ textarea{
     margin: auto;
 }
 .container-message{
-    display: flex;
-    justify-content:center;
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
     height: 360px;
-    border-radius: 0 0 20px 20px;
+    width: 320px;
 }
 button{
     font-family: 'Baloo Tamma 2', cursive; 
@@ -71,6 +68,7 @@ button{
 }
 .container-result{
     height: 450px;
+    max-width: 300px;
 }
 .priColor{
     border: 1px solid;
@@ -94,13 +92,17 @@ button{
 }
 .btn-message{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 textarea{
     border: none;
     outline: none;
     resize: none;
     background-color: whitesmoke;
+    height: 360px;
+    margin: 5px;
+    border-radius: 0 0 20px 20px;
+    max-width: 320px;
 }
 ::placeholder{
     position: relative;
@@ -114,7 +116,6 @@ textarea{
     width: 200px;
     height: 200px;
 }
-
 .message{
     width: 300px;
 }
@@ -125,6 +126,7 @@ textarea{
 }
 .messageError{
     text-align: center;
+    max-width: 300px;
 }
 footer{
     position: absolute;
@@ -149,10 +151,10 @@ footer{
         transform: translateX(18px);
     }
 }
-@media screen and (max-width: 420px) {
-    .image{
+@media screen and (max-width: 620px) {
+    /* .image{
         display: none;
-    }
+    } */
     textarea{
         max-width: 320px;
         margin: auto;
@@ -163,7 +165,7 @@ footer{
     .container-message{
         width: 300px;
     }
-    .messageError{
+    /* .messageError{
         position: relative;
         bottom: 50px;
         background-color: white;
@@ -171,13 +173,13 @@ footer{
         flex-direction: column;
         justify-content: center;
         margin: auto;
-        max-width: 300px;
+        max-width: 320px;
         height: 200px;
         border-radius: 30px;
         box-shadow: 6px 18px 91px -18px rgba(0,0,0,0.59);
         -webkit-box-shadow: 6px 18px 91px -18px rgba(0,0,0,0.59);
         -moz-box-shadow: 6px 18px 91px -18px rgba(0,0,0,0.59); }
-    .container-btn{
+     */.container-btn{
         flex-wrap: wrap;
         width: 95%;
     }
